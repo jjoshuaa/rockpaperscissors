@@ -1,4 +1,5 @@
 # Rock, paper , scissors 🪨📜✂️
 rock paper scissors game lol
-#usage 
+
+## usage 
 just run it lol
